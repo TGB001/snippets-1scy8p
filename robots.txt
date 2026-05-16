@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://TGB001.github.io/snippets-1scy8p/sitemap.xml
